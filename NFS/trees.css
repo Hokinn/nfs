@@ -1,0 +1,15 @@
+#left,#right{
+  width: 200px;
+  height: 100%;
+  background-color: #70543e;
+  display: inline-block;
+}
+#runningTree{
+  height: 100%;
+  width: 200px;
+  background-image: url("images/tree1.resized.png");
+}
+#right{
+  height: 100%;
+  background-image: url("images/wheat3.resized.jpg");
+}
